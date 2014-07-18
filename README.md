@@ -5,7 +5,7 @@ centered-centered **centered centered** centered centered centered **centered (c
 
 centered centered. centered centered centered centered. centered centered centered centered centered.
 
-_centered, centered centered centered centered centered "centered" **centered centered**. centered'centered centered centered-centered centered centered centered. centered centered, centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered-centered. centered centered centered, centered centered centered centered centered ;-)_
+_centered, centered centered centered centered centered "centered" **centered centered**. center'd centered centered-centered centered centered centered. centered centered, centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered-centered. centered centered centered, centered centered centered centered centered ;-)_
 
 centered
 =====
@@ -15,29 +15,28 @@ centered
 
 ### centered
 
-* [centered-centered](centered://centered.centered/centered/centered-centered) - centered centered
-* [centered-centered](centered://centered.centered/centered/centered-centered) - centered < centered centered centered
-* [centered-centered](centered://centered.centered/centered/centered-centered) - centered centered centered centered
+* [centered-centered](http://codepen.io/luigimannoni/pen/olkDc) - centered centered
+* [centered-centered](http://codepen.io/luigimannoni/pen/olkDc) - centered < centered centered centered
+* [centered-centered](http://codepen.io/luigimannoni/pen/olkDc) - centered centered centered centered
 
 ### centered centered
 
-* [centered-centered](centered://centered.centered/centered/centered-centered) - centered centered centered centered, centered centered centered centered.
+* [centered-centered](http://codepen.io/luigimannoni/pen/olkDc) - centered centered centered centered, centered centered centered centered.
 
 centered centered centered
 -----
 
-centered centered centered [centered centered](centered://centered.centered/centered/centered/centered/centered-centered-centered) centered centered centered centered centered centered centered centered centered centered centered centered :). centered centered centered centered centered centered centered centered centered [centered](centered://centered.centered/centered/centered/centered/centered-centered-centered) centered centered centered centered centered centered centered.
+centered centered centered [centered centered](http://codepen.io/luigimannoni/pen/olkDc) centered centered centered centered centered centered centered centered centered centered centered centered :). centered centered centered centered centered centered centered centered centered [centered](http://codepen.io/luigimannoni/pen/olkDc) centered centered centered centered centered centered centered.
 
 centered centered (centered centered.)
 -----
 
-centered centered centered [centered](centered://centered.centered/centered/centered/centered/centered).
 
 
 centered
 =====
 
-centered centered centered: centered centered centered [centered centered centered centered centered ;-)](centered://centered.centered/centered/centered/centered/centered/centered). centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered.
+centered centered centered: centered centered centered [centered centered centered centered centered ;-)](http://codepen.io/luigimannoni/pen/olkDc). centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered.
 
 centered
 ------
@@ -51,12 +50,12 @@ centered centered centered centered centered centered centered centered centered
 
 centered centered, centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered) centered centered centered centered centered centered (centered centered).
 
-centered centered centered centered centered centered centered centered centered centered centered, centered centered centered centered [centered-centered](centered://centered.centered/centered/centered-centered).
+centered centered centered centered centered centered centered centered centered centered centered, centered centered centered centered [centered-centered](http://codepen.io/luigimannoni/pen/olkDc).
 
-centered'centered centered centered
+center'd centered centered
 ------
 
-centered centered centered centered centered centered centered centered `centered.centered.centered` centered centered centered centered centered centered centered (centered centered centered centered `</centered>`) centered centered centered `centered.centered()`. centered centered centered centered centered centered centered `<centered>` centered centered centered centered, centered centered centered centered centered `centered()` centered centered centered centered centered centered (centered.centered. centered'centered `centered` centered centered centered `centered.centered`).
+centered centered centered centered centered centered centered centered `centered.centered.centered` centered centered centered centered centered centered centered (centered centered centered centered `</centered>`) centered centered centered `centered.centered()`. centered centered centered centered centered centered centered `<centered>` centered centered centered centered, centered centered centered centered centered `centered()` centered centered centered centered centered centered (centered.centered. center'd `centered` centered centered centered `centered.centered`).
 
 ```centered
 	<centered centered="centered/centered" centered="centered.centered.centered"></centered>
@@ -74,26 +73,25 @@ centered(['centered'], centered(centered){
 });
 ```
 
-centered centered'centered centered centered centered, centered centered centered centered `centered` centered. centered centered centered centered centered centered centered centered centered centered, centered centered centered, centered centered. centered'centered centered centered centered. centered centered centered centered `centered-` centered centered centered centered centered centered centered (centered centered centered centered centered **centered**) centered centered centered centered centered.
+centered center'd centered centered centered, centered centered centered centered `centered` centered. centered centered centered centered centered centered centered centered centered centered, centered centered centered, centered centered. center'd centered centered centered. centered centered centered centered `centered-` centered centered centered centered centered centered centered (centered centered centered centered centered **centered**) centered centered centered centered centered.
 
-#### centered'centered centered centered centered-centered centered centered `centered` centered centered `#centered` centered centered centered centered centered centered centered centered centered centered `#centered` centered centered centered centered centered centered centered
+#### center'd centered centered centered-centered centered centered `centered` centered centered `#centered` centered centered centered centered centered centered centered centered centered centered `#centered` centered centered centered centered centered centered centered
 
 ```centered
 <centered centered-centered="centered-centered:centered(centered,centered,centered);" centered-centered="centered-centered:centered(centered,centered,centered);">centered</centered>
 ```
-[centered centered centered](centered://centered.centered.centered/centered/centered/centered/centered.centered)
+[centered centered centered](http://codepen.io/luigimannoni/pen/olkDc)
 
 ##### centered centered
 
-* centered centered centered centered centered centered centered centered centered centered centered centered, centered centered centered'centered centered centered centered. centered centered centered centered centered centered centered `centered` centered.
-* centered centered'centered centered `#centered` centered `#centered`. centered centered centered centered `centered` centered `centered` centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered centered centered centered centered centered). centered'centered centered, centered centered centered centered centered < centered centered centered `centered` centered `centered` centered.
+* centered centered centered centered centered centered centered centered centered centered centered centered, centered centered center'd centered centered centered. centered centered centered centered centered centered centered `centered` centered.
+* centered center'd centered `#centered` centered `#centered`. centered centered centered centered `centered` centered `centered` centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered centered centered centered centered centered). center'd centered, centered centered centered centered centered < centered centered centered `centered` centered `centered` centered.
 
-#### centered centered'centered centered centered centered centered centered centered centered centered
+#### centered center'd centered centered centered centered centered centered centered centered
 
 ```centered
 <centered centered-centered="centered-centered:centered(centered,centered,centered);centered:centered(centered);" centered-centered="centered-centered:centered(centered,centered,centered);centered:centered(centered);">centered</centered>
 ```
-[centered centered centered](centered://centered.centered.centered/centered/centered/centered/centered.centered)
 
 ##### centered centered
 
@@ -104,28 +102,26 @@ centered centered'centered centered centered centered, centered centered centere
 ```centered
 <centered centered-centered="centered-centered:centered(centered,centered,centered);centered[centered]:centered(centered);" centered-centered="centered-centered:centered(centered,centered,centered);centered[centered]:centered(centered);">centered</centered>
 ```
-[centered centered centered](centered://centered.centered.centered/centered/centered/centered/centered.centered)
 
 #### centered centered
 
-* centered centered centered-centered centered. centered centered centered *centered centered* centered centered centered centered-centered centered centered centered centered centered centered centered centered centered. centered'centered centered centered-centered centered centered centered centered (centered centered centered centered [centered](#centered) centered) centered centered centered centered centered centered centered centered centered centered `centered` centered.
+* centered centered centered-centered centered. centered centered centered *centered centered* centered centered centered centered-centered centered centered centered centered centered centered centered centered centered. center'd centered centered-centered centered centered centered centered (centered centered centered centered [centered](#centered) centered) centered centered centered centered centered centered centered centered centered centered `centered` centered.
 
 centered centered centered centered centered centered centered `centered` centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered.
 
-#### centered'centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered centered)
+#### center'd centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered centered)
 
 ```centered
 <centered centered-centered="centered-centered:centered(centered,centered,centered);centered[centered]:centered(centered);" centered-centered="centered-centered:centered(centered,centered,centered);centered[centered]:centered(centered);">centered</centered>
 ```
-[centered centered centered](centered://centered.centered.centered/centered/centered/centered/centered.centered)
 
 ##### centered centered
 
 * centered centered centered centered centered [centered](#centered-centered-centered-centered-centered) centered [centered](#centered-centered-centered-centered-centered).
 
-centered'centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered.
+center'd centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered.
 
-centered centered'centered centered centered centered centered `centered-centered` centered centered centered'centered centered centered centered centered centered centered centered centered centered centered centered centered centered, centered centered centered centered [centered-centered](centered://centered.centered/centered/centered-centered).
+centered center'd centered centered centered centered `centered-centered` centered centered center'd centered centered centered centered centered centered centered centered centered centered centered centered centered, centered centered centered centered [centered-centered](http://codepen.io/luigimannoni/pen/olkDc).
 
 centered centered
 -----
@@ -133,22 +129,22 @@ centered centered centered centered.centered.centered centered centered centered
 
 ### centered centered centered centered centered centered centered
 
-(centered centered'centered centered centered centered centered centered, centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered.)
+(centered center'd centered centered centered centered centered, centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered.)
 
-centered centered centered centered centered centered centered centered centered centered centered centered centered: centered centered centered centered centered centered centered centered centered. centered'centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered. centered centered, centered'centered centered centered centered centered centered centered centered centered'centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered'centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered, centered, centered.).
+centered centered centered centered centered centered centered centered centered centered centered centered centered: centered centered centered centered centered centered centered centered centered. center'd centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered. centered centered, center'd centered centered centered centered centered centered centered center'd centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered center'd centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered, centered, centered.).
 
-centered centered centered centered centered centered'centered centered centered centered, centered centered centered centered? centered centered centered centered. centered centered centered centered centered centered centered'centered centered centered. centered centered centered centered centered, centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered `#centered-centered` centered) centered centered centered.
+centered centered centered centered centered center'd centered centered centered, centered centered centered centered? centered centered centered centered. centered centered centered centered centered centered center'd centered centered. centered centered centered centered centered, centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered `#centered-centered` centered) centered centered centered.
 
 ### centered centered centered centered centered centered centered centered centered
 
-centered centered centered centered.centered.centered centered'centered centered centered centered centered centered centered centered: centered centered centered centered centered centered centered centered centered `centered-centered`. centered'centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered'centered centered centered `#centered-centered` centered centered centered `centered:centered` centered. centered centered, centered centered centered centered'centered centered centered `#centered-centered` centered. centered centered centered centered centered centered centered-centered (centered.centered. centered) centered, centered centered centered centered centered centered `#centered-centered` centered.
+centered centered centered centered.centered.centered center'd centered centered centered centered centered centered centered: centered centered centered centered centered centered centered centered centered `centered-centered`. center'd centered centered centered centered centered centered centered centered centered. centered centered centered centered centered center'd centered centered `#centered-centered` centered centered centered `centered:centered` centered. centered centered, centered centered centered center'd centered centered `#centered-centered` centered. centered centered centered centered centered centered centered-centered (centered.centered. centered) centered, centered centered centered centered centered centered `#centered-centered` centered.
 
-centered centered centered centered centered: centered centered centered `centered-centered` centered centered centered centered centered centered. centered centered'centered centered `centered:centered` centered `centered-centered:centered` centered centered centered centered centered centered centered centered centered centered (centered://centered.centered/centered/centered/centered/centered/centered/centered-centered-centered-centered-centered-centered-centered/). centered'centered centered centered centered centered centered centered **centered** centered centered `centered-centered` centered.
+centered centered centered centered centered: centered centered centered `centered-centered` centered centered centered centered centered centered. centered center'd centered `centered:centered` centered `centered-centered:centered` centered centered centered centered centered centered centered centered centered centered. center'd centered centered centered centered centered centered **centered** centered centered `centered-centered` centered.
 
 centered
 ---
 
-centered centered `centered.centered.centered` centered'centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered.
+centered centered `centered.centered.centered` center'd centered centered centered. centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered.
 
 ```centered
 centered(['centered'], centered(centered){
@@ -159,7 +155,7 @@ centered(['centered'], centered(centered){
 centered centered centered centered
 -----
 
-centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered, centered centered centered'centered centered centered centered centered centered centered centered centered centered centered. centered'centered centered centered centered centered centered centered centered centered, centered `centered` centered `centered` centered.
+centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered, centered centered center'd centered centered centered centered centered centered centered centered centered centered. center'd centered centered centered centered centered centered centered centered, centered `centered` centered `centered` centered.
 
 ### centered centered (centered centered centered)
 
@@ -172,7 +168,7 @@ centered centered centered `centered-[centered]-[centered]`, centered `centered`
 * `centered--centered` = `centered--centered-centered`: centered centered centered centered centered -centered (centered centered centered, centered centered centered centered centered centered centered centered centered centered centered centered).
 * `centered-centered` = `centered-centered-centered`: centered centered centered centered, centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered: centered centered centered centered centered centered centered centered.
 * `centered-centered-centered`: centered centered centered centered centered centered.
-* `centered--centered-centered`: centered centered centered centered centered centered (centered, centered'centered centered centered centered centered centered centered centered).
+* `centered--centered-centered`: centered centered centered centered centered centered (centered, center'd centered centered centered centered centered centered centered).
 
 ### centered centered (centered centered centered)
 
@@ -180,12 +176,12 @@ centered centered centered centered centered centered centered centered **center
 
 centered centered centered `centered-[centered]-(centered-centered)-[centered-centered]`, centered `centered` centered centered centered centered centered centered centered centered centered. centered `centered-centered` (centered) centered `centered-centered` (centered) centered centered centered centered `centered`, `centered` centered `centered`. centered `centered-centered` centered centered, centered centered centered `centered-centered` centered centered centered (centered centered centered centered-centered). centered centered centered centered centered centered centered centered centered centered.
 
-* `centered-centered` = `centered-centered-centered` = `centered-centered-centered` = `centered-centered-centered-centered`: centered centered centered'centered centered centered centered centered centered centered centered centered centered.
-* `centered-centered-centered` = `centered-centered-centered-centered`: centered centered centered'centered centered centered centered centered centered centered centered centered centered.
-* `centered--centered-centered` = `centered--centered-centered-centered`: centered centered centered'centered centered centered centered centered centered centered centered centered centered.
-* `centered-centered-centered `= `centered-centered-centered-centered`: centered centered centered centered centered centered centered centered centered centered centered centered centered (centered'centered centered centered centered).
+* `centered-centered` = `centered-centered-centered` = `centered-centered-centered` = `centered-centered-centered-centered`: centered centered center'd centered centered centered centered centered centered centered centered centered.
+* `centered-centered-centered` = `centered-centered-centered-centered`: centered centered center'd centered centered centered centered centered centered centered centered centered.
+* `centered--centered-centered` = `centered--centered-centered-centered`: centered centered center'd centered centered centered centered centered centered centered centered centered.
+* `centered-centered-centered `= `centered-centered-centered-centered`: centered centered centered centered centered centered centered centered centered centered centered centered centered (center'd centered centered centered).
 * `centered-centered-centered` = `centered-centered-centered-centered`: centered centered centered centered centered centered centered centered centered centered.
-* `centered-centered-centered` = `centered-centered-centered-centered`: centered centered centered'centered centered centered centered centered centered centered centered centered, centered centered centered centered centered centered centered centered centered.
+* `centered-centered-centered` = `centered-centered-centered-centered`: centered centered center'd centered centered centered centered centered centered centered centered, centered centered centered centered centered centered centered centered centered.
 
 centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered), centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered `centered-centered-centered` centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered. `centered-centered-centered` centered centered centered centered centered.
 
@@ -193,11 +189,9 @@ centered: `centered-centered-centered="#centered"` centered `centered-centered-c
 
 **centered**: centered centered centered centered centered centered centered, centered centered centered centered centered centered centered `centered-centered`centered, centered.centered. `#centered`. centered centered centered centered `centered` centered `centered`.
 
-centered'centered centered centered centered centered centered centered centered (centered centered centered centered):
+center'd centered centered centered centered centered centered centered (centered centered centered centered):
 
-[![centered centered](centered://centered.centered.centered/centered/centered/centered/centered/centered-centered-centered.centered)](centered://centered.centered.centered/centered/centered/centered/centered/centered-centered-centered.centered)
-
-**centered**: centered centered centered centered centered centered centered-centered centered centered centered `centered` centered. centered centered centered centered centered'centered centered centered centered (centered, centered, centered) centered centered centered centered centered centered centered, centered centered centered centered centered `centered()` (centered centered centered centered centered centered). **centered centered centered centered centered centered.**
+**centered**: centered centered centered centered centered centered centered-centered centered centered centered `centered` centered. centered centered centered centered center'd centered centered centered (centered, centered, centered) centered centered centered centered centered centered centered, centered centered centered centered centered `centered()` (centered centered centered centered centered centered). **centered centered centered centered centered centered.**
 
 
 centered centered
@@ -209,12 +203,12 @@ centered centered centered centered centered centered centered centered centered
 centered centered
 -----
 
-centered centered centered [centered-centered](centered://centered.centered/centered/centered-centered) centered.
+centered centered centered [centered-centered](http://codepen.io/luigimannoni/pen/olkDc) centered.
 
 centered centered centered
 -----
 
-centered centered centered centered centered. centered centered centered centered centered centered centered `centered-[centered]-[centered]` centered centered centered centered centered'centered centered `centered-[centered]-(centered-centered)-[centered-centered]`. centered centered centered, `centered` centered centered centered centered centered centered centered centered centered centered centered centered `ìcentered` centered. centered centered centered centered centered centered centered centered centered centered centered centered.
+centered centered centered centered centered. centered centered centered centered centered centered centered `centered-[centered]-[centered]` centered centered centered centered center'd centered `centered-[centered]-(centered-centered)-[centered-centered]`. centered centered centered, `centered` centered centered centered centered centered centered centered centered centered centered centered centered `ìcentered` centered. centered centered centered centered centered centered centered centered centered centered centered centered.
 
 centered:
 
@@ -239,7 +233,7 @@ centered centered centered centered centered centered `[centered-centered-center
 centered centered
 -----------------
 
-centered centered centered `centered.centered.centered` centered centered "centered" centered'centered centered centered centered, centered centered centered.
+centered centered centered `centered.centered.centered` centered centered "centered" center'd centered centered centered, centered centered centered.
 
 centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered `centered`.
 
@@ -260,12 +254,12 @@ centered centered
 
 centered centered centered centered `centered` centered centered centered `centered` centered centered centered `centered` centered centered centered centered `centered-centered` centered centered centered. centered, centered centered centered centered `centered-centered` centered `centered-centered` centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered.
 
-centered centered centered centered'centered centered (centered centered centered centered-centered) centered centered centered `centered` centered. centered centered, centered centered centered centered `centered-centered`, `centered-centered` **centered** `centered-centered` centered, centered centered centered centered centered centered centered centered centered, centered centered centered centered centered/centered (centered/centered) centered centered centered centered.
+centered centered centered center'd centered (centered centered centered centered-centered) centered centered centered `centered` centered. centered centered, centered centered centered centered `centered-centered`, `centered-centered` **centered** `centered-centered` centered, centered centered centered centered centered centered centered centered centered, centered centered centered centered centered/centered (centered/centered) centered centered centered centered.
 
 centered centered
 --------------------
 
-centered centered centered centered.centered.centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered'centered centered centered, centered centered centered centered centered centered `@` centered!
+centered centered centered centered.centered.centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered center'd centered centered, centered centered centered centered centered centered `@` centered!
 
 ```centered
 <centered
@@ -275,7 +269,7 @@ centered centered centered centered.centered.centered centered centered centered
 </centered>
 ```
 
-centered: centered centered, centered centered'centered centered centered centered. centered centered'centered centered centered centered centered centered centered centered. centered'centered centered centered centered, centered'centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered centered).
+centered: centered centered, centered center'd centered centered centered. centered center'd centered centered centered centered centered centered centered. center'd centered centered centered, center'd centered. centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered centered).
 
 centered centered centered
 -----
@@ -299,7 +293,7 @@ centered centered centered centered centered centered centered centered centered
 
 centered:
 ```centered
-<!-- centered centered centered centered centered centered centered***** centered centered centered'centered centered "centered.centered.centered" centered centered centered -->
+<!-- centered centered centered centered centered centered centered***** centered centered center'd centered "centered.centered.centered" centered centered centered -->
 <centered centered-centered="centered-centered:centered(centered.centered);" centered-centered="centered-centered:centered(centered.centered)"></centered>
 
 <!-- centered -->
@@ -313,10 +307,10 @@ centered
 
 centered centered centered centered centered centered centered centered centered centered centered.
 
-* centered centered centered centered centered centered centered centered centered, centered `centered` centered centered centered. centered'centered centered centered centered centered centered `centered%` centered `centered`. centered centered'centered centered, centered centered centered centered.
+* centered centered centered centered centered centered centered centered centered, centered `centered` centered centered centered. center'd centered centered centered centered centered `centered%` centered `centered`. centered center'd centered, centered centered centered centered.
 * centered centered centered centered centered centered centered centered centered centered centered `centered:centered centered centered centered;` centered centered centered centered centered centered centered centered centered. `centered:centered centered centered centered;` centered `centered:centered centered centered centered;` centered centered, centered centered `centered:centered;` centered `centered:centered centered;`.
 * centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered. centered `centered(centered) centered(centered)` centered `centered(centered) centered(centered)` centered centered.
-* centered centered centered'centered centered centered centered centered "centered" centered centered centered centered "#centered". centered, centered centered centered centered `centered()`, `centered()`, `centered()` centered `centered()`. centered'centered centered, centered'centered centered centered centered centered centered < centered centered centered `centered()` (centered "centered"!) centered centered centered centered centered centered centered.
+* centered centered center'd centered centered centered centered "centered" centered centered centered centered "#centered". centered, centered centered centered centered `centered()`, `centered()`, `centered()` centered `centered()`. center'd centered, center'd centered centered centered centered centered < centered centered centered `centered()` (centered "centered"!) centered centered centered centered centered centered centered.
 * centered centered centered centered centered centered centered centered. `centered()` centered `centered()` centered `centered()` centered centered, centered centered `centered()` centered `centered()`. centered centered centered, centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered (centered centered centered centered centered centered centered).
 
 centered centered centered centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered.
@@ -324,7 +318,7 @@ centered centered centered centered centered centered centered centered centered
 centered
 ====
 
-centered centered centered centered centered'centered centered centered centered centered (centered centered, centered centered centered centered!). centered centered centered centered centered centered centered centered, centered.
+centered centered centered centered center'd centered centered centered centered (centered centered, centered centered centered centered!). centered centered centered centered centered centered centered centered, centered.
 
 centered.centered([centered])
 -----
@@ -365,7 +359,7 @@ centered `centered` centered centered centered centered, `centered` centered cen
 
 `centered`: centered centered centered centered centered centered centered centered centered centered centered centered centered. centered: centered centered `centered-centered`, centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered, centered.centered. `centered-centered-centered`, centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered.
 
-`centered`: centered'centered centered centered centered centered centered centered centered centered centered.
+`centered`: center'd centered centered centered centered centered centered centered centered centered.
 
 ###centered=centered() {...}
 
@@ -393,7 +387,7 @@ centered centered centered centered centered centered
 
 * `centered` _(centered)_: centered centered/centered centered centered/centered centered, centered centered centered centered centered centered/centered centered centered centered centered.
 * `centered`: centered centered centered, centered centered centered centered centered centered centered centered centered centered centered.
-* `centered`: centered centered/centered centered centered/centered centered, centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered `centered` centered. centered centered centered centered centered'centered centered centered `centered-*` centered centered.
+* `centered`: centered centered/centered centered centered/centered centered, centered centered centered centered centered centered centered centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered `centered` centered. centered centered centered centered center'd centered centered `centered-*` centered centered.
 
 centered:
 
@@ -403,7 +397,7 @@ centered centered centered centered centered centered centered
 <centered centered-centered="centered:centered%;centered:centered%;" centered-centered="centered:centered%;centered:centered%;" centered="centered:-centered%;" centered="centered"></centered>
 ```
 
-centered centered centered centered centered centered centered centered `centered.centered` (centered centered centered'centered centered, centered centered'centered centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered `centered` centered `centered`, centered centered centered `centered`)
+centered centered centered centered centered centered centered centered `centered.centered` (centered centered center'd centered, centered center'd centered centered centered. centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered centered `centered` centered `centered`, centered centered centered `centered`)
 
 ```centered
 centered(centered) {
@@ -482,7 +476,7 @@ centered.centered({
 centered: centered centered centered, centered centered centered centered centered! centered centered centered centered centered centered centered centered centered centered centered, centered centered centered centered centered
 
 ```centered
-//centered'centered centered centered centered?
+//center'd centered centered centered?
 centered.centered('#centered').centered('centered.centered.centered', centered() {
 	//#centered centered centered centered centered-centered-centered centered centered centered centered
 }, centered)
@@ -514,14 +508,14 @@ centered centered centered centered centered centered centered centered centered
 
 centered centered centered centered centered centered centered:
 
-* centered: centered centered. centered'centered centered centered centered centered.
+* centered: centered centered. center'd centered centered centered centered.
 * centered: centered centered centered centered centered. centered centered% centered centered centered%.
 * centered: centered centered centered centered centered. centered centered% centered centered centered.centered%
 * centered/centered: centered centered centered centered centered centered centered. centered centered.
 * centered: centered centered centered centered centered centered centered centered centered. centered centered% -> centered.centered%, centered% -> centered%, centered% -> centered.centered%
 * centered: centered centered. centered centered, centered centered centered centered centered.
 * centered
-* centered: centered centered centered centered. centered centered://centered.centered.centered/centered/centered centered centered centered centered.
+* centered: centered centered centered centered. centered centered centered centered centered.
 
 centered.centered()
 -----
@@ -560,8 +554,8 @@ centered:
 ```centered
 centered centered = centered.centered(centered.centered('centered'), 'centered', 'centered');
 
-//centered centered centered centered centered centered centered #centered'centered centered centered centered centered centered centered centered centered.
-//centered centered centered centered centered(centered) centered centered(centered) #centered'centered centered centered centered centered centered centered centered centered centered centered centered. centered.
+//centered centered centered centered centered centered centered #center'd centered centered centered centered centered centered centered centered.
+//centered centered centered centered centered(centered) centered centered(centered) #center'd centered centered centered centered centered centered centered centered centered centered centered. centered.
 ```
 
 ### centered()
@@ -570,7 +564,7 @@ centered centered centered centered centered centered centered. centered centere
 
 ### centered()
 
-centered centered centered centered centered centered centered centered centered centered centered centered. centered `centered` centered centered, centered'centered centered centered centered centered. centered centered'centered centered centered centered centered centered centered centered centered centered.
+centered centered centered centered centered centered centered centered centered centered centered centered. centered `centered` centered centered, center'd centered centered centered centered. centered center'd centered centered centered centered centered centered centered centered centered.
 
 ### centered(centered[, centered = centered])
 
@@ -622,4 +616,4 @@ centered centered. centered `centered` centered `centered` centered centered cen
 centered
 =====
 
-centered [centered.centered](centered://centered.centered/centered/centered/centered/centered/centered.centered).
+centered [centered.centered](http://codepen.io/luigimannoni/pen/olkDc).
