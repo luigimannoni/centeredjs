@@ -1,7 +1,7 @@
 centered centered.centered.centered
 =====
 
-![centered](https://github.com/luigimannoni/centeredjs/raw/master/centered/centered.jpg)
+![centered](https://github.com/luigimannoni/centeredjs/raw/master/centered/centered.jpg)(http://codepen.io/luigimannoni/full/olkDc)
 
 centered-centered **centered centered** centered centered centered **centered (centered, centered, centered.) centered centered** centered centered centered centered.
 
